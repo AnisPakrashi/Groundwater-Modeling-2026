@@ -1,2 +1,6 @@
-# Groundwater-Modeling-2026
-This project is on environmental modeling that combines multiple data sources to study changes in the groundwater level in the High Plains Aquifer region. We specifically combine satellite information and site data on wells.
+Paper Title: Estimating water levels in the High Plains Aquifer by synthesizing satellite data with groundwater well observations
+Authors: Anis Pakrashi, Murali Haran, Shan Zuidema
+Year of submission: 2026
+Journal: Environmentrics
+
+Data link: https://www2.csr.utexas.edu/grace/RL06_mascons.html
