@@ -7,5 +7,5 @@ Year of submission: 2026
 Journal: Environmentrics
 
 Data links: 
-https://www2.csr.utexas.edu/grace/RL06_mascons.html , 
-https://www.usgs.gov/apps/ngwmn/index.jsp
+(GRACE) https://www2.csr.utexas.edu/grace/RL06_mascons.html , 
+(NGWMN) https://www.usgs.gov/apps/ngwmn/index.jsp
